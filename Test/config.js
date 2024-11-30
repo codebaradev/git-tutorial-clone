@@ -1,2 +1,2 @@
 console.log("This is version")
-console.log("v1.0")
+console.log("v2.0")
